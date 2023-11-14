@@ -1,0 +1,10 @@
+Film: Spider-Man: Far From Home
+Tanggal: 2023-06-24
+Hari: Kamis
+Ruangan bioskop: Room 8
+Jam tayang: 21:00
+Jumlah: 3
+Total harga: Rp. 114
+Kelas tiket: Regular
+Kursi: 5 3 3 
+
